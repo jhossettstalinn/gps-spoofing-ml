@@ -16,4 +16,10 @@ classifiers using the Spearman selection feature, achieving an accuracy of
 91.12\%. Furthermore, using the Spearman and Lasso methods improved relatively 
 the performance of Bernoulli and kNN classifiers.
 
+<p align="center">
+  <img src="./figures/Spoofing_Diagram.png" alt="GPS Spoofing diagram" width="650" />
+  <br />
+  <em>Figure. Diagram of a GPS Spoofing attack on UAS.</em>
+</p>
+
 ## How to use
